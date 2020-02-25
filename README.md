@@ -8,10 +8,10 @@ The analysis is to explore, investigate and explain factors relate to the price 
 Python
 
 ## Packges 
-General: numpy, pandas, 
-Plotting: matplotlib, seaborn, 
-Data clearning: math, re, decimal, datetime
-Data Modeling: sklearn
+<br>General: numpy, pandas, 
+<br>Plotting: matplotlib, seaborn, 
+<br>Data clearning: math, re, decimal, datetime
+<br>Data Modeling: sklearn
 
 ## The analysis follows a CRISP-DM model.
 
