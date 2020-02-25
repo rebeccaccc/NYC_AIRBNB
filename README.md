@@ -16,8 +16,8 @@ Python
 ## The analysis follows a CRISP-DM model.
 
 ## 1. Business Understanding
-Question 1: What factors relate to the price of an Airbnb, in addition to the size of the space? The size of the space is normally defined as square footage, and it is also reflected as in number of bedrooms or number of people accomendates. The size of the space will not be the focus of this analysis.
-Question 2: What factors relates to the review ratings of an Airbnb property? 
+<br>Question 1: What factors relate to the price of an Airbnb, in addition to the size of the space? The size of the space is normally defined as square footage, and it is also reflected as in number of bedrooms or number of people accomendates. The size of the space will not be the focus of this analysis.
+<br>Question 2: What factors relates to the review ratings of an Airbnb property? 
 ## 2. Data Understanding
 1. Screened all features to understand what is available.  
 2. In absent of a codebook, removed features whose names are not self-explanatory.  
